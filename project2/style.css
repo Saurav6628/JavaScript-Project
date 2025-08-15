@@ -1,0 +1,63 @@
+.head
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#height
+{
+    margin-left: 15px;
+}
+
+#weight
+{
+    margin-left: 15px;
+}
+
+.div
+{
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+#calButton
+{
+    text-align: center;
+    display: block;
+    margin:20px auto;
+    font-size: 25px;
+    background-color: cadetblue;
+    border-radius: 15px;
+}
+
+.status
+{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom:10px;
+}
+
+#stat1
+{
+    text-align:center;
+    margin-bottom:10px;
+}
+
+#stat2
+{
+    text-align:center;
+    margin-bottom:10px;
+}
+
+#stat3
+{
+    text-align:center;
+    margin-bottom:10px;
+}
+
+#result
+{
+    margin-top:10px;
+    margin-bottom:10px;
+    text-align: center;
+}
