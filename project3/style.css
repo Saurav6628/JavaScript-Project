@@ -1,0 +1,23 @@
+.heading
+{
+    text-align:center;
+    color:white;
+    font-size: 50px;
+}
+.body
+{
+    background-color: #444444;
+}
+.box
+{
+    width:200px;
+    height:100px;
+    background-color:yellow;
+    border-radius:10px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size:35px;
+    margin:15% auto;
+
+}
